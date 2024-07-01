@@ -1,0 +1,13 @@
+[
+    {
+        "departure city":"Grenoble",
+        "airports":[
+            {
+            "airpotName":"Grenoble Airport","distance":"31KM"
+        },
+        {
+            "airpotName":"Chambery Airport","distance":"50KM"
+        }
+        ]
+    }
+]
